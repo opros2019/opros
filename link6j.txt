@@ -1,4 +1,4 @@
 {
   "link":"https://lightworckz.ru/57L3vdzr",
-  "browse":true
+  "browser":true
 }
