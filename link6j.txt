@@ -1,4 +1,6 @@
 {
   "link":"https://lightworckz.ru/57L3vdzr",
+  "linkua":"https://lightworckz.ru/57L3vdzr",
+  "linkkz":"https://lightworckz.ru/57L3vdzr",
   "browser":false
 }
