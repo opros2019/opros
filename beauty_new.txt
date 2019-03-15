@@ -1,4 +1,3 @@
 {
-  "link":"http://new.choco-burn.ru/?a_bid=3830&campaign=960&lang=ru&ufl=4293&a_cc=RU&uuc=1&vitrina=1&scenario=normal_blog&cpa=kma",
-  "browser":true
+  "link":"http://new.choco-burn.ru/?a_bid=3830&campaign=960&lang=ru&ufl=4293&a_cc=RU&uuc=1&vitrina=1&scenario=normal_blog&cpa=kma"
 }
