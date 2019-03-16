@@ -3,7 +3,7 @@
     {
       "id": 1,
       "title": "Редуслим",
-      "img": "https://inabove.com/wp-content/uploads/2018/05/reduslim-pro.jpg",
+      "img": "http://41apps.ru/storage/diet/reduslim-pro.jpg",
       "link": "https://luckybest.ru/click/iframe.html?cid=0a093f76-6995-4194-9e58-0aec4d1b3dc0"
     }
   ],
